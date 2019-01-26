@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D912DE63-72DB-4CE7-8C0B-A034E3705762}</ProjectGuid>
+    <ProjectGuid>{3CBD8EB1-7FA0-4A24-B47D-B7CE529C7BFD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>AlgorithmStudy</RootNamespace>
+    <RootNamespace>AlgorithmStudyKPark</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
-    <ProjectName>Algorithm_Study_KPark</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -153,10 +152,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="solutions.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Algorithm_Study.cpp" />
+    <ClCompile Include="Algorithm_Study_KPark.cpp" />
     <ClCompile Include="bj1260_DFSandBFS.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

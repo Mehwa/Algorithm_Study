@@ -1,4 +1,5 @@
 #include "pch.h"
+#include "solutions.h"
 #include <iostream>
 #include <vector>
 #include <queue>
