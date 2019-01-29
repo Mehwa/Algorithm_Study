@@ -34,7 +34,6 @@ void printInput() {
 	}
 }
 
-
 int houseGroupingBFS(int start_x, int start_y){
 	int nHouse = 0;
 	queue <pair <int, int> > q;
