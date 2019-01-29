@@ -1,5 +1,3 @@
-#include "pch.h"
-#include "solutions.h"
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -58,7 +56,7 @@ void bfs(vector<vector<int> > &adjList, int initNode) {
 	}
 }
 
-void bf1260_DFSandBFS()
+int main()
 {
 	vector<vector<int> > adjList;
 
@@ -80,4 +78,5 @@ void bf1260_DFSandBFS()
 	dfsAll(adjList, V);
 	printf("\n");
 	bfs(adjList, V);
+	system("pause");
 }
