@@ -8,8 +8,8 @@
 using namespace std;
 
 int N, M;
-bool map[101][101] = { false };
-bool visited[101][101] = { false };
+bool map[102][102] = { false };
+bool visited[102][102] = { false };
 
 //Right, Left, Up, Down
 int dx[4] = { 1, -1, 0, 0 };
