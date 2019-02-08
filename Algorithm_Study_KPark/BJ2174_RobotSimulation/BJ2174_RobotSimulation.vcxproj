@@ -23,7 +23,7 @@
     <ProjectGuid>{3423B295-F69B-4A5D-9D2D-4E9555C239D9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>BJ2174RobotSimulation</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
