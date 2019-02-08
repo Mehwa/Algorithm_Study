@@ -77,7 +77,7 @@ int main() {
 					b.push_back(v[i]);
 			}
 
-			//printAB();
+			printAB(a, b);
 
 			a_val = cal(a);
 			b_val = cal(b);
