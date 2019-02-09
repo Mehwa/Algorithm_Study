@@ -1,12 +1,13 @@
 ﻿#include <iostream>
+#include <cstring>
 #include <queue>
 
 using namespace std;
 
 int N, M, a1x, a1y, a2x, a2y, b1x, b1y, b2x, b2y;
-bool map[101][101] = { true };
-bool visited[101][101] = { false };
-int dist[101][101] = { 0 };
+bool map[101][101];
+bool visited[101][101];
+int dist[101][101];
 int dx[4] = { 1, -1, 0, 0 };
 int dy[4] = { 0, 0, -1, 1 };
 
@@ -16,11 +17,7 @@ void input() {
 	cin >> a2x >> a2y;
 	cin >> b1x >> b1y;
 	cin >> b2x >> b2y;
-	for (int i = 0; i <= N; i++) {
-		for (int j = 0; j <= M; j++) {
-			map[i][j] = true;
-		}
-	}
+	memset(map, true, sizeof(map));
 	map[a1x][a1y] = false;
 	map[a2x][a2y] = false;
 	map[b1x][b1y] = false;
@@ -49,22 +46,14 @@ void printInput() {
 }
 
 void init() {
-	for (int i = 0; i <= N; i++) {
-		for (int j = 0; j <= M; j++) {
-			visited[i][j] = false;
-			dist[i][j] = 0;
-		}
-	}
+	memset(visited, false, sizeof(visited));
+	memset(dist, 0, sizeof(dist));
 }
 
 void initAll() {
-	for (int i = 0; i <= N; i++) {
-		for (int j = 0; j <= M; j++) {
-			map[i][j] = true;
-			visited[i][j] = false;
-			dist[i][j] = 0;
-		}
-	}
+	memset(map, true, sizeof(map));
+	memset(visited, false, sizeof(visited));
+	memset(dist, 0, sizeof(dist));
 	map[a1x][a1y] = false;
 	map[a2x][a2y] = false;
 	map[b1x][b1y] = false;
