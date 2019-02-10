@@ -13,6 +13,7 @@
 * 2668 숫자고르기 [DFS]
 * 5022 연결 [BFS]
 * 2468 안전 영역 [BFS, DFS]
+* BJ1405 미친 로봇 [DFS]
 
 ## SW Expert Academy
 * SWEA4120 요리사[BF, DFS]
