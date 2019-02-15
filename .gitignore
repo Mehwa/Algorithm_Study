@@ -259,3 +259,4 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Algorithm_Study_GPark/Algorithm_Study_GPark/BJ_10972_다음순열.cpp

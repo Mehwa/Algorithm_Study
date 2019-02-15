@@ -3,41 +3,41 @@
 
 #include <cstdio>
 #include <cstring>
+#include <bitset>
 using namespace std;
 
 int t;
-int n=0;
+bitset<20> b;
 
 void add(int num)
 {
-	n |= (1 << num);
+	b.set(num, true);
 }
 
 void remove(int num)
 {
-	n &= ~(1 << num);
+	b.set(num, false);
 }
 
 int check(int num)
 {
-	int ret = (n & (1 << num));
-	if (ret) return 1;
+	if (b.test(num) == 1) return 1;
 	else return 0;
 }
 
 void toggle(int num)
 {
-	n ^= (1 << num);
+	b.flip(num);
 }
 
 void all()
 {
-	n = (1 << 20) - 1;
+	b.set();
 }
 
 void empty()
 {
-	n = 0;
+	b.reset();
 }
 int main()
 {
