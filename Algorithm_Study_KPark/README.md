@@ -18,3 +18,4 @@
 ## SW Expert Academy
 * SWEA4120 요리사[BF, DFS]
 * SWEA1949 등산로 조성 [DFS]
+* SWEA5653 줄기세포 배양 [BFS, 시뮬레이션]
