@@ -116,7 +116,7 @@ int visitHouse() {
 int main()
 {
 	input();
-	/printInput();
+	printInput();
 	initMinMax();
 	initCost();
 	int c = visitHouse();
