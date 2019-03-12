@@ -27,3 +27,4 @@
 * [SWEA1953 탈주범 검거 [BFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE&&&)
 * [SWEA2383 점심 식사시간 [DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl&categoryId=AV5-BEE6AK0DFAVl&categoryType=CODE)
 * [SWEA2115 벌꿀채취 [DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu&categoryId=AV5V4A46AdIDFAWu&categoryType=CODE)
+* [SWEA2382 미생물 격리 [시뮬레이션]](https://swexpertacademy.com/main/code/problem/problemDetail.do)
