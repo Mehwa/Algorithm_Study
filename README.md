@@ -11,6 +11,12 @@ https://mewha.tistory.com/5?category=692810
 freopen("input.txt", "r", stdin);
 ```
 
+* 한 줄씩 입력 받기
+```C++
+string line;
+getline(cin, line);
+```
+
 * array 초기화 (2차원도 가능)
 ```C++
 #include <cstring>
