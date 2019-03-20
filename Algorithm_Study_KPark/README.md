@@ -17,6 +17,8 @@
 * [BJ5022 연결 [BFS]](https://www.acmicpc.net/problem/5022)
 * [BJ2468 안전 영역 [BFS, DFS]](https://www.acmicpc.net/problem/2468)
 * [BJ1405 미친 로봇 [DFS]](https://www.acmicpc.net/problem/1405)
+* [BJ16986 인싸들의 가위바위보 [DFS]](https://www.acmicpc.net/problem/16986)
+* [BJ17070 파이프 옮기기 1 [DFS]](https://www.acmicpc.net/problem/17070)
 
 ## SW Expert Academy
 * [SWEA4120 요리사[BF, DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE)
