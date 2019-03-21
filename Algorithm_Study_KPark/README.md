@@ -21,6 +21,7 @@
 * [BJ17070 파이프 옮기기 1 [DFS]](https://www.acmicpc.net/problem/17070)
 * [BJ16987 계란으로 계란치기 [DFS]](https://www.acmicpc.net/problem/16987)
 * [BJ16954 움직이는 미로 탈출 [DFS]](https://www.acmicpc.net/problem/16954)
+* [BJ16953 A → B [DFS]](https://www.acmicpc.net/problem/16953)
 
 ## SW Expert Academy
 * [SWEA4120 요리사[BF, DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE)
