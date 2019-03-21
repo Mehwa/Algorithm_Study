@@ -23,6 +23,7 @@
 * [BJ16954 움직이는 미로 탈출 [DFS]](https://www.acmicpc.net/problem/16954)
 * [BJ16953 A → B [DFS]](https://www.acmicpc.net/problem/16953)
 * [BJ16943 숫자 재배치 [DFS]](https://www.acmicpc.net/problem/16943)
+* [BJ16948 데스 나이트 [BFS]](https://www.acmicpc.net/problem/16948)
 
 ## SW Expert Academy
 * [SWEA4120 요리사[BF, DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE)

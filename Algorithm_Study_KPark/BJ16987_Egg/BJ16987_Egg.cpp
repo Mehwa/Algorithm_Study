@@ -1,3 +1,10 @@
+/*
+ * Author: kpark
+ * Data: 2019.03.20
+ * Algorithm: DFS
+ * Problem: https://www.acmicpc.net/problem/16987
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
