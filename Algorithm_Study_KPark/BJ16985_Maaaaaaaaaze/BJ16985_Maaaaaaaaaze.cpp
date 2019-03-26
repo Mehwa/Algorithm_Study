@@ -20,8 +20,8 @@ int visit[5];
 int dx[] = { -1, 1, 0, 0, 0, 0 };
 int dy[] = { 0, 0, -1, 1, 0, 0 };
 int dz[] = { 0, 0, 0, 0, -1, 1 };
-int in[8][3] = { {0, 0, 0}, {4, 0, 0}, {0, 4, 0}, {0, 0, 4}, {4, 0, 4}, {4, 4, 0}, {0, 4, 4}, {4, 4, 4} };
-int out[8][3] = { {4, 4, 4}, {0, 4, 4}, {4, 0, 4}, {4, 4, 0}, {0, 4, 0}, {0, 0, 4}, {4, 0, 0}, {0, 0, 0} };
+int in[1][3] = { {0, 0, 0}};
+int out[1][3] = { {4, 4, 4}};
 
 struct xyz {
 	int z, y, x;
@@ -49,10 +49,7 @@ int calDistBFS(int start[], int end[]) {
 			int nz = cur.z + dz[i];
 			if (nx < 0 || ny < 0 || nz < 0 || nx >= 5 || ny >= 5 || nz >= 5) continue;
 			if (nz == end[0] && ny == end[1] && nx == end[2]) {
-				if (new_map[nz][ny][nx])
 					return dist[cur.z][cur.y][cur.x];
-				else
-					return 987654321;
 			}
 			if (new_map[nz][ny][nx] && !dist[nz][ny][nx]) {
 				q.push({ nz, ny, nx });
@@ -77,14 +74,11 @@ void rotate(int z, int nr) {
 
 void rotateDFS(int cur, int d) {
 	if (d == 5) {
-		for (int i = 0; i < 8; i++) {
-			if (new_map[in[i][0]][in[i][1]][in[i][2]]) {
-				result = min(calDistBFS(in[i], out[i]), result);
-			}
-		}
+		if (new_map[in[0][0]][in[0][0]][in[0][2]] && new_map[out[0][0]][out[0][1]][out[0][2]])
+			result = min(calDistBFS(in[0], out[0]), result);
 		return;
 	}
-	for (int i = 3; i > 0; i--) {
+	for (int i = 0; i < 4; i++) {
 			int tmp[5][5];
 			memcpy(tmp, new_map[d], sizeof(new_map[d]));
 			rotate(d, i);
@@ -98,10 +92,8 @@ void stackupDFS(int cur, int d) {
 		rotateDFS(0, 0);
 		return;
 	}
-	visit[cur] = true;
 	for (int i = 0; i < 5; i++) {
 		if (!visit[i]) {
-			int tmp[5][5];
 			memcpy(new_map[d], map[i], sizeof(map[i]));
 			visit[i] = true;
 			stackupDFS(i, d + 1);
@@ -110,17 +102,10 @@ void stackupDFS(int cur, int d) {
 	}
 }
 
-void stackupDFSAll() {
-	for (int i = 0; i < 5; i++) {
-		memcpy(new_map[0], map[i], sizeof(map[i]));
-		stackupDFS(i, 1);
-	}
-}
-
 int main() {
 	freopen("input.txt", "r", stdin);
 	input();
-	stackupDFSAll();
+	stackupDFS(0, 0);
 	if (result == 987654321) cout << -1 << endl;
 	else cout << result << endl;
 }
