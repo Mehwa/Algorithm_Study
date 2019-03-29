@@ -29,6 +29,7 @@
 * [BJ15684 사다리 조작 [DFS]](https://www.acmicpc.net/problem/15684)
 * [BJ15685 드래곤 커브 [시뮬레이션]](https://www.acmicpc.net/problem/15685)
 * [BJ15686 치킨 배달 [DFS]](https://www.acmicpc.net/problem/15686)
+* [BJ16234 인구 이동 [BFS]](https://www.acmicpc.net/problem/16234)
 
 ## SW Expert Academy
 * [SWEA4120 요리사[BF, DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE)
