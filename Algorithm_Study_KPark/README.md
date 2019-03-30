@@ -31,6 +31,7 @@
 * [BJ15686 치킨 배달 [DFS]](https://www.acmicpc.net/problem/15686)
 * [BJ16234 인구 이동 [BFS]](https://www.acmicpc.net/problem/16234)
 * [BJ16235 나무 재테크 [시뮬레이션]](https://www.acmicpc.net/problem/16235)
+* [BJ16236 아기 상어 [BFS]](https://www.acmicpc.net/problem/16236)
 
 ## SW Expert Academy
 * [SWEA4120 요리사[BF, DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE)
