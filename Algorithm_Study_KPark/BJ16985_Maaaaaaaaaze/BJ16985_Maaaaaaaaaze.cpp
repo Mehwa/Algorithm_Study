@@ -1,6 +1,6 @@
 /*
- * Solver: kpark
- * Data: 2019.03.21
+ * Author: kpark
+ * Date: 2019.03.21
  * Algorithm: DFS
  * Problem: https://www.acmicpc.net/problem/16985
 */

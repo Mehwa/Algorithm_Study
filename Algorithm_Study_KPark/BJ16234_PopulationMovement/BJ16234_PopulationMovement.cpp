@@ -1,3 +1,10 @@
+/*
+ * Author: kpark
+ * Date: 2019.03.30
+ * Algorithm: BFS
+ * Problem: https://www.acmicpc.net/problem/16234
+*/
+
 #include <iostream>
 #include <queue>
 #include <cstring>

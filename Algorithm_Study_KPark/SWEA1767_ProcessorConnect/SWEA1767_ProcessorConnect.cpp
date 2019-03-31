@@ -1,3 +1,10 @@
+/*
+ * Author: kpark
+ * Date: 2019.03.29
+ * Algorithm: DFS
+ * Problem: https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf
+*/
+
 #include <iostream>
 #include <queue>
 #include <cstring>

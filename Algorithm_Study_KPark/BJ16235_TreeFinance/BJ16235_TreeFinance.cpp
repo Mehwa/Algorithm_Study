@@ -1,3 +1,10 @@
+/*
+ * Author: kpark
+ * Date: 2019.03.30
+ * Algorithm: Simulation
+ * Problem: https://www.acmicpc.net/problem/16235
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
