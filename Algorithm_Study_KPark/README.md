@@ -32,6 +32,10 @@
 * [BJ16234 인구 이동 [BFS]](https://www.acmicpc.net/problem/16234)
 * [BJ16235 나무 재테크 [시뮬레이션]](https://www.acmicpc.net/problem/16235)
 * [BJ16236 아기 상어 [BFS]](https://www.acmicpc.net/problem/16236)
+* [BJ2206 벽 부수고 이동하기 [BFS]](https://www.acmicpc.net/problem/2206)
+* [BJ14442 벽 부수고 이동하기2 [BFS]](https://www.acmicpc.net/problem/14442)
+* [BJ16933 벽 부수고 이동하기3 [BFS]](https://www.acmicpc.net/problem/16933)
+* [BJ16946 벽 부수고 이동하기4 [BFS]](https://www.acmicpc.net/problem/16946)
 
 ## SW Expert Academy
 * [SWEA4120 요리사[BF, DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE)
