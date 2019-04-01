@@ -24,6 +24,18 @@
 * [BJ16953 A → B [DFS]](https://www.acmicpc.net/problem/16953)
 * [BJ16943 숫자 재배치 [DFS]](https://www.acmicpc.net/problem/16943)
 * [BJ16948 데스 나이트 [BFS]](https://www.acmicpc.net/problem/16948)
+* [BJ16985 Maaaaaaaaaze [DFS+BFS]](https://www.acmicpc.net/problem/16985)
+* [BJ15683 감시 [DFS]](https://www.acmicpc.net/problem/15683)
+* [BJ15684 사다리 조작 [DFS]](https://www.acmicpc.net/problem/15684)
+* [BJ15685 드래곤 커브 [시뮬레이션]](https://www.acmicpc.net/problem/15685)
+* [BJ15686 치킨 배달 [DFS]](https://www.acmicpc.net/problem/15686)
+* [BJ16234 인구 이동 [BFS]](https://www.acmicpc.net/problem/16234)
+* [BJ16235 나무 재테크 [시뮬레이션]](https://www.acmicpc.net/problem/16235)
+* [BJ16236 아기 상어 [BFS]](https://www.acmicpc.net/problem/16236)
+* [BJ2206 벽 부수고 이동하기 [BFS]](https://www.acmicpc.net/problem/2206)
+* [BJ14442 벽 부수고 이동하기2 [BFS]](https://www.acmicpc.net/problem/14442)
+* [BJ16933 벽 부수고 이동하기3 [BFS]](https://www.acmicpc.net/problem/16933)
+* [BJ16946 벽 부수고 이동하기4 [BFS]](https://www.acmicpc.net/problem/16946)
 
 ## SW Expert Academy
 * [SWEA4120 요리사[BF, DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE)
@@ -35,3 +47,4 @@
 * [SWEA2383 점심 식사시간 [DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl&categoryId=AV5-BEE6AK0DFAVl&categoryType=CODE)
 * [SWEA2115 벌꿀채취 [DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu&categoryId=AV5V4A46AdIDFAWu&categoryType=CODE)
 * [SWEA2382 미생물 격리 [시뮬레이션]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE)
+* [SWEA1767 프로세서 연결하기 [DFS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
