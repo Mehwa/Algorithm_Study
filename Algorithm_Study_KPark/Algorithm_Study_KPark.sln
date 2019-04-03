@@ -87,6 +87,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJ14442_BreakWallsAndMove2"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BJ16946_BreakWallsAndMove4", "BJ16946_BreakWallsAndMove4\BJ16946_BreakWallsAndMove4.vcxproj", "{14A9BC50-9EB2-4B72-B868-7B471CDB9CFE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SWEA5644_WirelessCharging", "SWEA5644_WirelessCharging\SWEA5644_WirelessCharging.vcxproj", "{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SWEA5656_BreakingBricks", "SWEA5656_BreakingBricks\SWEA5656_BreakingBricks.vcxproj", "{3A9DF637-42B2-4474-955F-1FCDE3E28558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -431,6 +435,22 @@ Global
 		{14A9BC50-9EB2-4B72-B868-7B471CDB9CFE}.Release|x64.Build.0 = Release|x64
 		{14A9BC50-9EB2-4B72-B868-7B471CDB9CFE}.Release|x86.ActiveCfg = Release|Win32
 		{14A9BC50-9EB2-4B72-B868-7B471CDB9CFE}.Release|x86.Build.0 = Release|Win32
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Debug|x64.ActiveCfg = Debug|x64
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Debug|x64.Build.0 = Debug|x64
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Debug|x86.Build.0 = Debug|Win32
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Release|x64.ActiveCfg = Release|x64
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Release|x64.Build.0 = Release|x64
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Release|x86.ActiveCfg = Release|Win32
+		{2C2292C0-24BD-4DCC-9546-882FC6C0BC21}.Release|x86.Build.0 = Release|Win32
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Debug|x64.ActiveCfg = Debug|x64
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Debug|x64.Build.0 = Debug|x64
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Debug|x86.Build.0 = Debug|Win32
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Release|x64.ActiveCfg = Release|x64
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Release|x64.Build.0 = Release|x64
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Release|x86.ActiveCfg = Release|Win32
+		{3A9DF637-42B2-4474-955F-1FCDE3E28558}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

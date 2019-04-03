@@ -1,4 +1,4 @@
-# Coding Cheet Sheet
+# Coding Cheat Sheet
 
 * 입출력 속도 줄이기
 ```C++
