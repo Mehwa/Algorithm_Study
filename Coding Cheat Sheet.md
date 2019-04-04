@@ -36,7 +36,7 @@ sort(src.rbegin(), src.rend(), compare); //비교 함수 정의
 ```C++
 #include <algorithm>
 vector<int> v;
-v.sort(v.begin(), v.end());
+sort(v.begin(), v.end());
 v.erase(unique(v.begin(), v.end()), v.end());
 ```
 
