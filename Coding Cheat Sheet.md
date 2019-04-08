@@ -32,11 +32,18 @@ sort(src.rbegin(), src.rend()); //내림차순
 sort(src.rbegin(), src.rend(), compare); //비교 함수 정의
 ```
 
+* 컨테이너에서 원소 뽑아 쓰기
+```C++
+for(auto x : iterator){
+
+}
+```
+
 * vector 중복제거
 ```C++
 #include <algorithm>
 vector<int> v;
-v.sort(v.begin(), v.end());
+sort(v.begin(), v.end());
 v.erase(unique(v.begin(), v.end()), v.end());
 ```
 
