@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SWEA1949_TrackingCourse.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA1952_SwimmingPool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA1953_AresstPrisoner.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2105_dessertCafe.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2112_ProtectionFilm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2115_HoneyHarvesting.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2117_HomeSecurity.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2382_MicroCell.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2383_LunchTime.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2477_CarCenter.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA4008_NumberCreation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA4012_Cook.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA4013_StrangeMagnet.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA4014_BuildAirstrip.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5644_WirelessCharging.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5648_AtomSimulation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5650_PinBallGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5653_StemCell.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5656_BreakingBricks.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5658_TreasureCase.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ13458.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ14502_Lab.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ14503_RobotCleaning.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ16235_TreeFinance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ16236_BabyShark.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ16918_BomberMan.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ16919_BomberMan2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ16926_ArrayRotation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ17135_CastleDeffense.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ17136_ColorPaper.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input1949.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input1952.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input1953.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input2105.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input2112.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input2115.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input2117.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input2382.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input2383.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input2477.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input4008.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input4012.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input4013.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input4014.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input5644.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input5648.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input5650.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input5653.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input5656.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input5658.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input13458.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input14502.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input14503.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input16235.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input16236.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input16918.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input16926.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input17135.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input17136.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
