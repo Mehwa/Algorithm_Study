@@ -105,6 +105,24 @@
     <ClCompile Include="BJ17136_ColorPaper.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SWEA1953_AresstPrisoner_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5653_StemCell_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ16234_Population.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA1767_ProcessorConnection.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5656_BreakingBricks_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ5373_Cubing.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1949.txt">
@@ -192,6 +210,15 @@
       <Filter>리소스 파일</Filter>
     </Text>
     <Text Include="input17136.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input16234.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input1767.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input5373.txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>

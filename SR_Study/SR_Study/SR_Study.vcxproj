@@ -148,6 +148,9 @@
     <ClCompile Include="BJ14503_RobotCleaning.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="BJ16234_Population.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BJ16235_TreeFinance.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -169,6 +172,12 @@
     <ClCompile Include="BJ17136_ColorPaper.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="BJ5373_Cubing.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="SWEA1767_ProcessorConnection.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="SWEA1949_TrackingCourse.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -176,6 +185,9 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="SWEA1953_AresstPrisoner.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="SWEA1953_AresstPrisoner_v2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="SWEA2105_dessertCafe.cpp">
@@ -223,7 +235,13 @@
     <ClCompile Include="SWEA5653_StemCell.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="SWEA5653_StemCell_v2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="SWEA5656_BreakingBricks.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="SWEA5656_BreakingBricks_v2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="SWEA5658_TreasureCase.cpp">
@@ -234,12 +252,14 @@
     <Text Include="input13458.txt" />
     <Text Include="input14502.txt" />
     <Text Include="input14503.txt" />
+    <Text Include="input16234.txt" />
     <Text Include="input16235.txt" />
     <Text Include="input16236.txt" />
     <Text Include="input16918.txt" />
     <Text Include="input16926.txt" />
     <Text Include="input17135.txt" />
     <Text Include="input17136.txt" />
+    <Text Include="input1767.txt" />
     <Text Include="input1949.txt" />
     <Text Include="input1952.txt" />
     <Text Include="input1953.txt" />
@@ -254,6 +274,7 @@
     <Text Include="input4012.txt" />
     <Text Include="input4013.txt" />
     <Text Include="input4014.txt" />
+    <Text Include="input5373.txt" />
     <Text Include="input5644.txt" />
     <Text Include="input5648.txt" />
     <Text Include="input5650.txt" />

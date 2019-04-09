@@ -119,7 +119,7 @@ void solve() {
 
 bool chooseBalls(int d) {
 	if (d == N) {
-		brick tmp[15][15];
+		brick tmp[15][12];
 		memcpy(tmp, map, sizeof(map));
 		solve();
 		if (result == 0) return false;
