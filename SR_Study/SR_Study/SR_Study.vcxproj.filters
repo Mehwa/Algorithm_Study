@@ -123,6 +123,30 @@
     <ClCompile Include="BJ5373_Cubing.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SWEA1949_TrackingCourse_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA5644_WirelessCharging_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11559_PuyoPuyo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2115_HoneyHarvesting_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA4014_BuildAirstrip_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15684_LadderTrick.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ14501_Leave.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ3190_Snake.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1949.txt">
@@ -219,6 +243,18 @@
       <Filter>리소스 파일</Filter>
     </Text>
     <Text Include="input5373.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input11559.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input15684.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input14501.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input3190.txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
