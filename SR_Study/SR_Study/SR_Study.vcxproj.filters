@@ -147,6 +147,24 @@
     <ClCompile Include="BJ3190_Snake.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SWEA2105_dessertCafe_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2117_HomeSecurity_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15683_CCTV.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA1952_SwimmingPool_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2477_CarCenter_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ12100_2048.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1949.txt">
@@ -255,6 +273,12 @@
       <Filter>리소스 파일</Filter>
     </Text>
     <Text Include="input3190.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input15683.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input12100.txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
