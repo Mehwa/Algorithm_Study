@@ -186,6 +186,30 @@
     <ClCompile Include="BJ14499_Dice.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SWEA5648_AtomSimulation_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ17070_PipeTransfer1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15686_ChickenDistance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA2382_MicroCell_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15685_DragonCurve.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ16986_InsideRCP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ17136_ColorPaper_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ17135_CastleDeffense_v2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input1949.txt">
@@ -312,6 +336,18 @@
       <Filter>리소스 파일</Filter>
     </Text>
     <Text Include="input14499.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input17070.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input15686.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input15685.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="input16986.txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
